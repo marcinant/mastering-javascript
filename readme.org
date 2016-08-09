@@ -1,0 +1,9 @@
+# mastering-javascript
+* test
+  :PROPERTIES:
+  :CREATED:  [2016-08-09 Tue 21:07]
+  :END:
+* IDEA  test
+  :PROPERTIES:
+  :CREATED:  [2016-08-09 Tue 21:07]
+  :END:
