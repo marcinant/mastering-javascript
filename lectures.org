@@ -1,0 +1,12 @@
+#+title: JavaScript lectures
+
+* JS
+
+  + https://github.com/getify/You-Dont-Know-JS/blob/master/README.md
+
+  + https://www.amazon.de/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850
+
+
+* ReactJS
+
+* Angular
